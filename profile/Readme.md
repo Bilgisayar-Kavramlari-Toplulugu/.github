@@ -1,51 +1,128 @@
-# Bilgisayar Kavramları  
-_*Prof. Dr. Şadi Evren Şeker tarafından sunulan bilişim bilimleri platformu*_
+🇹🇷 Bilgisayar Kavramları
 
-## Hakkında  
-“Bilgisayar Kavramları” kanalı, blogu ve eğitim içerikleri ile bilgisayar bilimleri, yönetim bilişim sistemleri, bilgisayar mühendisliği ve veri madenciliği alanlarında bilgi paylaşımı yapmaktadır. :contentReference[oaicite:2]{index=2}  
-Platformun amacı, akademik temellerle güçlü bir şekilde donatılmış içerikleri, geniş kitlelerle erişilebilir hale getirmektir.
+Prof. Dr. Şadi Evren Şeker tarafından sunulan kapsamlı bir bilişim bilimleri platformudur.
+YouTube kanalı, blog ve eğitim içerikleri ile bilgisayar bilimi, yönetim bilişim sistemleri (MIS), bilgisayar mühendisliği, veri madenciliği ve yapay zekâ alanlarında bilgi paylaşımı sağlar.
 
-## İçerik Yönelimleri  
-- Bilgisayar bilimi teorileri, matematiksel temeller  
-- Bilgi sistemleri ve yönetim bilişim sistemleri (MIS)  
-- Bilgisayar mühendisliği uygulamaları  
-- Veri madenciliği, yapay zekâ, kuantum hesaplama gibi ileri konular  
-  :contentReference[oaicite:3]{index=3}  
-- Öğrenme amacıyla hazırlanmış kod örnekleri ve açık kaynak projeler  
-  :contentReference[oaicite:4]{index=4}
+Platformun amacı:
+Akademik temeli güçlü, uygulama odaklı içerikleri geniş kitlelere erişilebilir kılmak.
 
-## Hedef Kitle  
-- Lisans ve lisansüstü düzeyde bilgisayar bilimleri öğrencileri  
-- Yönetim bilişim sistemleri alanında çalışan profesyoneller  
-- Akademik kariyer hedefleyen araştırmacılar  
-- Kodlama ve algoritma pratiğini artırmak isteyen geliştiriciler
+🎯 İçerik Yönelimleri
 
-## Kaynaklar ve İletişim  
-- YouTube Kanalı: [Bilgisayar Kavramları](https://www.youtube.com/@Sadievrenseker_BK) :contentReference[oaicite:5]{index=5}  
-- Web Sitesi: [bilgisayarkavramlari.com](https://bilgisayarkavramlari.com/) :contentReference[oaicite:6]{index=6}  
-- GitHub: [Bilgisayar Kavramları / sadi evren seker](https://github.com/bilgisayarkavramlari) :contentReference[oaicite:7]{index=7}  
-- İş birliği ve reklam için: `isbirligi@sadievrenseker.com` :contentReference[oaicite:8]{index=8}
+Bilgisayar bilimi teorileri, matematiksel temeller
 
-## Katkıda Bulunmak  
-Bu platformun çıktılarının (kod örnekleri, eğitim içerikleri) açık kaynaklı bir ruhla paylaşılması benimsenmiştir.  
-Katkıda bulunmak için:
-1. GitHub üzerindeki projeyi fork edin.  
-2. Yeni bir branch oluşturun (`feature/…` ya da `bugfix/…`).  
-3. Kodunuzu commit & push edin.  
-4. Pull request gönderin.  
-Koda katkı sağlamadan önce lütfen lisans şartlarını gözden geçirin.
+Bilgi sistemleri ve yönetim bilişim sistemleri (MIS)
 
-## Lisans  
-Bu içerikler MIT License ile lisanslanmıştır. Lisans detaylarına projenin `LICENSE` dosyasından ulaşabilirsiniz.  
-*(Not: Lisans türünün kesinleşmesini öneririm.)*
+Bilgisayar mühendisliği uygulamaları
 
-## Neden Bu Platform?  
-- Akademik derinlik ile uygulama odaklı içerikler birlikte sunulmaktadır.  
-- Sürekli güncellenen ve erişilebilir kaynaklar mevcuttur.  
-- Kod örnekleri gerçek hayat problemlerine yöneliktir; yalnızca teorik değil, uygulanabilir çözümler içerir.  
-- “Bilgisayar Kavramları” topluluğu, öğrenme – üretme – paylaşma döngüsünü aktif şekilde benimsemiş bir ağdır. :contentReference[oaicite:9]{index=9}
+Veri madenciliği, yapay zekâ, makine öğrenimi, kuantum hesaplama
 
----
+Öğrenmeye yönelik kod örnekleri ve açık kaynak projeler
 
-Her bir başlık altında **kendine özel detaylar** ekleyebilirsin: örneğin kod örneklerine dair hangi diller kullanılıyor (C#, Python, C++ vb.), topluluk etkinlikleri (örneğin Eskişehir’de buluşmalar) gibi. :contentReference[oaicite:10]{index=10}  
-İstersen, İngilizce versiyonla birlikte, proje kobine, badge’ler, kullanım senaryoları da ekleyebilirim.  
+👥 Hedef Kitle
+
+Lisans & lisansüstü bilgisayar bilimi öğrencileri
+
+MIS alanındaki profesyoneller
+
+Akademik kariyer hedefleyen araştırmacılar
+
+Kodlama ve algoritma pratiğini artırmak isteyen geliştiriciler
+
+🔗 Kaynaklar ve İletişim
+
+YouTube: https://www.youtube.com/@Sadievrenseker_BK
+
+Web Sitesi: https://bilgisayarkavramlari.com
+
+Kişisel Web: https://sadievrenseker.com
+
+GitHub: https://github.com/onuralpszr
+
+İş birliği & reklam: isbirligi@sadievrenseker.com
+
+🤝 Katkıda Bulunmak
+
+Platform, açık kaynak ruhunu benimser. Katkı adımları:
+
+İlgili GitHub reposunu fork edin
+
+Yeni bir branch açın (feature/... veya bugfix/...)
+
+Geliştirmeyi yapıp commit & push edin
+
+Pull Request gönderin
+
+Not: Katkı yapmadan önce LICENSE dosyasını kontrol edin.
+
+📄 Lisans
+
+Tüm içerikler MIT License ile lisanslanmıştır.
+Detaylar için LICENSE dosyasına bakabilirsiniz.
+
+❓ Neden Bu Platform?
+
+Akademik derinlik + pratik uygulama birlikte sunulur
+
+Sürekli güncellenen, erişilebilir ve ücretsiz içerikler
+
+Kod örnekleri gerçek problemlere yöneliktir
+
+Topluluk, “öğren–üret–paylaş” döngüsünü aktif şekilde benimser
+
+🇬🇧 Computer Concepts (English Version)
+
+A computer science and information systems platform presented by Prof. Dr. Şadi Evren Şeker.
+It provides educational content on computer science, MIS, software engineering, data mining, artificial intelligence and advanced computing topics.
+
+The mission:
+Deliver academically solid, technically accurate, and accessible content to a broad audience.
+
+🎯 Content Focus
+
+Computer science theory and mathematical foundations
+
+Information systems & Management Information Systems (MIS)
+
+Software engineering practices
+
+Data mining, AI, machine learning, quantum computing
+
+Educational code samples & open-source projects
+
+👥 Target Audience
+
+Undergraduate and graduate CS students
+
+MIS professionals
+
+Researchers targeting academic paths
+
+Developers improving coding & algorithm skills
+
+🔗 Resources
+
+YouTube: https://www.youtube.com/@Sadievrenseker_BK
+
+Website: https://bilgisayarkavramlari.com
+
+Personal Site: https://sadievrenseker.com
+
+GitHub: https://github.com/onuralpszr
+
+Business inquiries: isbirligi@sadievrenseker.com
+
+🤝 Contributing
+
+Fork the repository
+
+Create a new branch (feature/... or bugfix/...)
+
+Commit & push your changes
+
+Submit a Pull Request
+
+Check the LICENSE file before contributing.
+
+📄 License
+
+Licensed under the MIT License.
