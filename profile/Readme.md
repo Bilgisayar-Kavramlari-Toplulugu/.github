@@ -1,1 +1,1 @@
-
+Bilgisayar kavramları topluluğu karşılama sayfası
