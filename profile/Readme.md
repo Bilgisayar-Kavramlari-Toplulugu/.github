@@ -107,8 +107,6 @@ Website: https://bilgisayarkavramlari.com
 
 Personal Site: https://sadievrenseker.com
 
-GitHub: https://github.com/onuralpszr
-
 Business inquiries: isbirligi@sadievrenseker.com
 
 🤝 Contributing
