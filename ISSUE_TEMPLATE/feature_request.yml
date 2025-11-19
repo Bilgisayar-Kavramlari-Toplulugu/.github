@@ -1,0 +1,23 @@
+name: Feature Request
+description: Yeni bir özellik önerin.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "Yeni bir fikir veya geliştirme öneriniz varsa detaylandırın."
+
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Değer / Katkı
+      placeholder: "Bu özellik kullanıcıya veya projeye ne kazandıracak?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Önerinin Detayı
+      placeholder: "Nasıl çalışmalı, örnek senaryolar neler?"
+    validations:
+      required: true
