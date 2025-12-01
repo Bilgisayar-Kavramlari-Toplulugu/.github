@@ -36,7 +36,7 @@ Web Sitesi: https://bilgisayarkavramlari.com
 
 Kişisel Web: https://sadievrenseker.com
 
-GitHub: https://github.com/onuralpszr
+GitHub: https://github.com/Bilgisayar-Kavramlari-Toplulugu
 
 İş birliği & reklam: isbirligi@sadievrenseker.com
 
