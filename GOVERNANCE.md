@@ -1,7 +1,7 @@
 # Project Governance / Proje Yönetişimi
 
-This document outlines the governance model for the **[ORGANIZATION NAME]** open source projects.
-Bu belge **[ORGANIZATION NAME]** açık kaynak projeleri için yönetişim modelini ana hatlarıyla belirtir.
+This document outlines the governance model for the **Bilgisayar-Kavramları-Topluluğu** open source projects.
+Bu belge **Bilgisayar-Kavramları-Topluluğu** açık kaynak projeleri için yönetişim modelini ana hatlarıyla belirtir.
 
 ---
 <open>
